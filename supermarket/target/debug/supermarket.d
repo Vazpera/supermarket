@@ -1,0 +1,1 @@
+/workspaces/supermarket/supermarket/target/debug/supermarket: /workspaces/supermarket/supermarket/src/app.rs /workspaces/supermarket/supermarket/src/main.rs /workspaces/supermarket/supermarket/src/tui.rs
